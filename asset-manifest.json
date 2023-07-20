@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/freeskout-clone/static/css/main.2471c9bd.css",
+    "main.js": "/freeskout-clone/static/js/main.064510b8.js",
+    "index.html": "/freeskout-clone/index.html",
+    "main.2471c9bd.css.map": "/freeskout-clone/static/css/main.2471c9bd.css.map",
+    "main.064510b8.js.map": "/freeskout-clone/static/js/main.064510b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2471c9bd.css",
+    "static/js/main.064510b8.js"
+  ]
+}
